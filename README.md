@@ -7,5 +7,5 @@ Multiplication
 Division
 ## how to run
 clone this repository
-open ,ini-calculator.ipynb in jupiter notebook
+open mini-calculator.ipynb in jupiter notebook
 run the cell to use the calculator
